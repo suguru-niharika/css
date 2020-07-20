@@ -1,0 +1,50 @@
+#h
+{
+  border:solid;
+}
+body
+{
+  background-color: #00961d5c;
+}
+p
+{
+  background-color: #ffff00d9;
+}
+h2
+{
+  color: #b7124a;
+}
+.t
+{
+  color: #981240;
+  background-color: rgba(0, 0, 0, 0);
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+.p
+{
+  color: #b7124a;
+}
+.login
+{
+  background-color: #ffa5008a;
+  border:solid;
+  border-color: #b7124a;
+}
+.mail
+{
+  border-color: #b7124a;
+}
+.text
+{
+  border-color: black;
+  border:double;
+}
+.div
+{
+  background-color: #0606e4;
+  border:dashed;
+  border-color: yellow;
+  border-width: 3px;
+}
